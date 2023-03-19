@@ -9,3 +9,4 @@ After you're done with analysis, try to come up with a decent model to predict t
 ## local development 
 
 1. Open index.md in your text editor.
+2. Have fun!
